@@ -1,4 +1,4 @@
-# Garbage Monitoring IOT Project
+# Waste Managment System IOT Project
 
 IOT project made for IOT class at University.
 
