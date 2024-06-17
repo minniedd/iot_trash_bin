@@ -62,7 +62,7 @@ void setup(){
   lcd.print("Amina Bardak");
   Serial.begin(115200);
   pinMode(trigger, OUTPUT);
-  pinMode(echo, OUTPUT);
+  pinMode(echo, INPUT); 
   WiFi.mode(WIFI_STA);
 
 
